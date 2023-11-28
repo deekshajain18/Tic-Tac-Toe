@@ -40,7 +40,7 @@ The standard Tic-Tac-Toe rules apply:
 
 To run the game locally, make sure you have Python installed on your machine. No additional dependencies are required.
 
-##Usage
+## Usage
 
 Follow the on-screen instructions to navigate through the game. In single-player mode, you'll be playing against the computer, which uses the Minimax algorithm to determine its moves.
 
